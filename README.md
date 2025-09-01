@@ -83,31 +83,19 @@ I'm an adaptable and results-driven professional with a strong foundation in *Py
 
 ---
 
-## 📈 GitHub Highlights (Custom)
+## 📈 GitHub Stats
 
-> ⚠️ Note: GitHub cards below do not reflect private contributions or accurate streaks. Here's the real picture:
+![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayanklalwani1404&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-### 📊 Yearly Contribution Summary (2025)
-- ✅ **117 contributions** so far this year *(including private repos)*
-- 📆 **Longest streak**: **July 20 – August 2** (14 days)
-- 🔁 **Current streak**: 1 day (Sep 2)
+<!-- Removed misleading top languages card and replaced with manual badges -->
 
-![Screenshot: Contributions](https://raw.githubusercontent.com/MayankLalwani1404/your-repo-name/main/assets/contributions_screenshot.png)
-
----
-
-### 💻 Most Used Languages in Projects (Custom)
-> Based on your top AI/Data Science repositories
-
+### 💻 Most Used Languages (Relevant to Data Science)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=flat-square)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat-square)
 
----
-
-### 🏆 GitHub Trophy Board
+![GitHub Streak](https://streak-stats.demolab.com?user=mayanklalwani1404&theme=dark&hide_border=true&cache_seconds=30)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=mayanklalwani1404&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
