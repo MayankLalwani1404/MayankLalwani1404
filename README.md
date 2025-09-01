@@ -58,7 +58,7 @@ I'm an adaptable and results-driven professional with a strong foundation in *Py
 ## 📂 Notable Projects
 
 ### 🧬 [Demographic Data Analyzer](https://github.com/MayankLalwani1404/Data-analytics-using-python/tree/main/Demographic_Data_Analyzer)
-- Analyzed 32,561 records, revealing income differences by education level
+- Analyzed 32,561 records revealing income differences by education level
 - Identified *Iran* as the country with *highest high earners (41.9%)*
 - Cleaned and prepared datasets, reduced data inconsistencies by 95%
 
@@ -74,7 +74,7 @@ I'm an adaptable and results-driven professional with a strong foundation in *Py
 ### 🌊 [Sea Level Predictor](https://github.com/MayankLalwani1404/Data-analytics-using-python/tree/main/Sea_Level_Predictor)
 - Plotted trends from 1880–2013 using CSIRO data
 - Predicted 8-inch rise by 2050 via linear regression
-- Built a second regression model on post-2000 data to reveal recent acceleration
+- Built second regression model on post-2000 data to reveal recent acceleration
 
 ### 💼 [Deloitte Australia Data Analyst Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_BEKPszc2PxjwcFfnj_1748265170578_completion_certificate.pdf)
 - Built stakeholder-ready *Tableau dashboard* to visualize customer trends
@@ -85,18 +85,11 @@ I'm an adaptable and results-driven professional with a strong foundation in *Py
 
 ## 📈 GitHub Stats
 
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayanklalwani1404&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayanklalwani1404&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayanklalwani1404&layout=compact&theme=radical)
 
-<!-- Removed misleading top languages card and replaced with manual badges -->
-
-### 💻 Most Used Languages (Relevant to Data Science)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat-square)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mayanklalwani1404&theme=dark&hide_border=true&cache_seconds=30)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=mayanklalwani1404&theme=dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayanklalwani1404&theme=react-dark&hide_border=true)
 [![Trophies](https://github-profile-trophy.vercel.app/?username=mayanklalwani1404&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
