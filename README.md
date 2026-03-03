@@ -8,8 +8,8 @@ I'm an adaptable and results-driven professional with a strong foundation in *Py
 
 ## 🧠 About Me
 
-- 🏆 AI intern at Sports Media Inc.
-- 📊 Studying *B.Sc. in Information Technology* @ Uka Tarsadia University (2022–2025)
+- 🏆 Ex AI intern at Sports Media Inc.
+- 📊 Completed *B.Sc. in Information Technology* from Uka Tarsadia University (2022–2025)
 - 📚 Currently learning *Data Analysis* and *Machine Learning* via online courses
 - 🧪 Exploring *AI, **data storytelling, and **game design* in creative side projects
 - 🤝 Open to collaborate on:
@@ -88,10 +88,6 @@ I'm an adaptable and results-driven professional with a strong foundation in *Py
 ## 📈 GitHub Stats
 
 ![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayanklalwani1404&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayanklalwani1404&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mayanklalwani1404&theme=dark&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayanklalwani1404&theme=react-dark&hide_border=true)
 [![Trophies](https://github-profile-trophy.vercel.app/?username=mayanklalwani1404&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
