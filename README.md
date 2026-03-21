@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Mayank Lalwani
 
-*AI Intern at SportsMediaInc* | *AI & Data Science Professional*
+*Ex AI Intern at SportsMediaInc* | *AI & Data Science Professional*
 
 I'm an adaptable and results-driven professional with a strong foundation in *Python, *machine learning, and *data analysis. I’m passionate about uncovering insights from data, building scalable solutions, and telling compelling stories through visualization and AI. I love collaborating in agile environments and solving real-world problems with creative, data-driven approaches.
 
